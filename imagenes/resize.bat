@@ -1,1 +1,1 @@
-FOR %%A in (*.jpg) DO (magick %%A -resize 90 %%A)
+FOR %%A in (*.jpg) DO (magick %%A -resize 270 %%A)
